@@ -1,0 +1,6 @@
+//1.Install gtk 3.0 in ubuntu
+//2.download glib 2.0 in ubuntu
+//3.install gio in ubuntu
+//4. link and remove all the errors and done fixing gtk for you
+//5.If it still has errors see youtube
+//6.it took me about one monthe to fix all errors so do n't give up:)
